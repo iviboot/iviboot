@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and applications
 - 🌱 I’m currently learning javascript, java, php
 - 📫 How to reach me (+52) 5578696249
-- 😄 Pronouns: Ivi
+- 😄 Pronouns: Ivi.
 
 <h1 align="center">Hi 👋, I'm Ivan Almaraz BM</h1>
 <h3 align="center">frontend</h3>
