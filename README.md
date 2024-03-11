@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Almaraz(@iviboot).
 - 👀 I’m interested in web development and applications.
-- 🌱 I’m currently learning javascript, java, php.
+- 🌱 I’m currently learning javascript, java, php. 
 - 📫 How to reach me (+52) 5578696249.
 - 😄 Pronouns: Ivi.
 
