@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Almaraz(@iviboot).
 - 👀 I’m interested in web development and applications. 
-- 🌱 I’m currently learning javascript, java, php. 
+- 🌱 I’m currently learning javascript, java,  php. 
 - 📫 How to reach me trampitas2017@gmail.com.
 - 😄 Pronouns: Ivi.
  
