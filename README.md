@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning javascript, java,  php. 
 - 📫 How to reach me trampitas2017@gmail.com.
 - 😄 Pronouns: Ivi.
-- ![web](https://github.com/iviboot/iviboot/assets/126647369/5395fa04-0b90-4531-b964-b7d40455b575)
+- ![web](https://github.com/iviboot/iviboot/assets/126647369/5395fa04-0b90-4531-b964-b7d40455b575) ![contacto](https://github.com/iviboot/iviboot/assets/126647369/3c83644c-b9a7-4f68-91ef-50108546c1c3)
+
 
  
 <h1 align="center">Hi 👋, I'm Ivan Almaraz BM</h1>
