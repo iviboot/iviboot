@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan Almaraz BM.🪪
-- 👀 I’m interested in web development and applications. 
+- 👀 I’m interested in web development and  applications. 
 - 🌱 I’m currently learning javascript, java,  php. 
 - 📫 How to reach me trampitas2017@gmail.com.
 
