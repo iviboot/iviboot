@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Almaraz BM</h1>
 <h3 align="center">Frontend Developer</h3>
- 
+  
 - 👀 I’m interested in web development and applications
 - 🌱 I’m currently learning javascript, java, php
 - 📫 How to reach me trampitas2017@gmail.com
