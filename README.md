@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Almaraz  BM</h1>
+ <h1 align="center">Hi 👋, I'm Ivan Almaraz  BM</h1>
 <h3 align="center">Frontend Developer</h3>
   
 - 👀 I’m interested in web development and applications
